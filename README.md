@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=VanderleiJnr)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Conhecendo mais sobre a area ligada ao front end e web desenvolvimento
 - 🎓 &nbsp; Atualmente estou estudando **HTML, CSS, GIT, JS, SQL e React** no <a href="https://app.rocketseat.com.br/dashboard)">Rocket Seat</a>.
